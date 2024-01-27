@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Frontend technologies in-depth**
 
-- 👨‍💻 My portfolio [https://shashankp10-portfolio.vercel.app/](https://shashankp10-portfolio.vercel.app/)
+- 👨‍💻 My portfolio [Click here](https://shashankp10-portfolio.vercel.app/)
 
 - 💬 Ask me about **Backend Development in Springboot**
 
