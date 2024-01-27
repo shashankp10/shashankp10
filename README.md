@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashankp10&label=Profile%20views&color=0e75b6&style=flat" alt="shashankp10" /> </p>
 
-- 🔭 I’m currently working on [e-commerce website](https://github.com/shashankp10/urbanbazaar)
+- 🔭 I’m currently working on [e-commerce website](https://urban-bazaar-ashen.vercel.app/)
 
 - 🌱 I’m currently learning **Frontend technologies in-depth**
 
