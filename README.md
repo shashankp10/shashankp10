@@ -10,7 +10,7 @@
 
 - 👨‍💻 Portfolio [Link](https://portfolio-shashank-pandeys-projects-8f5aefdd.vercel.app/)
 
-- 💬 Ask me about **Backend Development and Data structures and Algorithms**
+- 💬 Ask me about **Backend Development and Data structures & Algorithms**
 
 - 📫 How to reach me **pandey2001shashank@gmail.com**
 
