@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashankp10&label=Profile%20views&color=0e75b6&style=flat" alt="shashankp10" /> </p>
 
-- 🔭 I’m currently working on [E-Commerce Website](https://urban-bazaar-ashen.vercel.app/)
+- 🔭 I’m working on a side project [E-Commerce Website](https://urban-bazaar-ashen.vercel.app/)
 
-- 🌱 I’m currently learning **Frontend technologies in-depth**
+- 🌱 Learning **Frontend technologies in-depth**
 
 - 👨‍💻 Portfolio [Link](https://portfolio-shashank-pandeys-projects-8f5aefdd.vercel.app/)
 
-- 💬 Ask me about **Backend Development in Springboot**
+- 💬 Ask me about **Backend Development and Data structures and Algorithms**
 
 - 📫 How to reach me **pandey2001shashank@gmail.com**
 
