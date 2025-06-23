@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashankp10&label=Profile%20views&color=0e75b6&style=flat" alt="shashankp10" /> </p>
 
-- 🔭 I’m working on a side project [Navify](https://github.com/shashankp10/Navify)
+- 🔭 I’m working as Java Developer
 
-- 🌱 Learning **Spring Boot in depth**
+- 🌱 Proficient in **Java & Spring Boot**
 
 - 👨‍💻 Portfolio [Link](https://portfolio-shashank-pandeys-projects-8f5aefdd.vercel.app/)
 
