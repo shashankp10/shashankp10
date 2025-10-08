@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Shashank Pandey</h1>
-<h3 align="center">Software Engineer Intern</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashankp10&label=Profile%20views&color=0e75b6&style=flat" alt="shashankp10" /> </p>
 
-- 💼 I’m working as Java Developer
+- 💼 I’m working as Backend Developer
 
 - 🌱 Proficient in **Java & Spring Boot**
 
